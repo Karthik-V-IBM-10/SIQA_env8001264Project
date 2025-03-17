@@ -18,6 +18,11 @@ packages:
   gitUrl: https://github.com/prabhakarsag
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
+- name: SSL_JDBC_Test
+  gitServerName: kvv
+  gitUrl: https://github.com/prabhakarsag
+  gitUsername: Karthik-V-IBM-10
+  gitBranch: main
 services:
 - serviceName: project.siqa_env8001264.integrations:AlertsCRTandERT
   packages:
