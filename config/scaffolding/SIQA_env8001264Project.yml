@@ -20,3 +20,19 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2042
+- serviceName: project.siqa_env8001264.integrations:deepclonetest
+  packages:
+  - name: SIQA_env8001264Project
+    version: "1.0"
+- serviceName: pub.string:stringToBytes
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2042
+- serviceName: pub.utils:deepClone
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2042
+- serviceName: pub.string:bytesToString
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2042
